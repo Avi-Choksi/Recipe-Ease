@@ -130,3 +130,8 @@ dmypy.json
 
 # Google API credentials
 credentials.json
+
+# Eclipse Files
+.project
+.pydevproject
+.classpath
